@@ -29,6 +29,12 @@ Go to:-  https://console.developers.google.com/apis
    PIL and Pillow currently cannot co-exist in the same environment. If you want to use Pillow, please remove PIL first.
 #### All rest of the code details has been mentioned in the comments of the code
        
-    
-
+#### Python Code
+      https://github.com/iamprithvishetty/Certificate/blob/master/Certificate.py
+      
+#### Sample Image File
+      https://github.com/iamprithvishetty/Certificate/blob/master/FINAL.png
+      
+#### Sample Credentials File 
+      https://github.com/iamprithvishetty/Certificate/blob/master/credentials.json
      
