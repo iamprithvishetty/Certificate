@@ -1,7 +1,7 @@
 # Certificate
 Auto Generated Certificate using pillow and gspread
 
-#1) For setting up gspread i.e Google Developer Console and using API
+# 1) For setting up gspread i.e Google Developer Console and using API
 Go to:-  https://console.developers.google.com/apis
 a) Create New Project 
 b) Select The New Project Created
