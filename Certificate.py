@@ -1,6 +1,6 @@
-import gspread
-from PIL import Image, ImageDraw, ImageFont
-from oauth2client.service_account import ServiceAccountCredentials
+import gspread #Google Spread Sheet Library Included
+from PIL import Image, ImageDraw, ImageFont #Pillow Library Included
+from oauth2client.service_account import ServiceAccountCredentials #oauth2client in order to make changes using the credentials in our Sheets
 i = 1
 ch = 0
 ch1 = 1
