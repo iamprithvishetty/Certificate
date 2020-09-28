@@ -20,7 +20,15 @@ Go to:-  https://console.developers.google.com/apis
    ##### 6) IMP : A JSON file will be downloaded keep it safe and don't share it with anyone and you only have to create credentials once
    
 ### 2) Summary of the code
-#### Install gspread library
+#### Install Google Sheets library
     pip install gspread
-           
+#### Install oauth2client library
+    pip install oauth2client
+#### Install Pillow library
+    pip install Pillow
+   PIL and Pillow currently cannot co-exist in the same environment. If you want to use Pillow, please remove PIL first.
+   
+       
+    
+
      
