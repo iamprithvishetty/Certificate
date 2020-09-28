@@ -18,5 +18,9 @@ Go to:-  https://console.developers.google.com/apis
    #####    Role --> Project & Owner
        Key Type --> JSON
    ##### 6) IMP : A JSON file will be downloaded keep it safe and don't share it with anyone and you only have to create credentials once
+   
+### 2) Summary of the code
+#### Install gspread library
+    pip install gspread
            
      
